@@ -12,5 +12,5 @@ compile_file:
 ```
 
 ###Programa 1: Delay Example 1
-![](![delayExample](https://user-images.githubusercontent.com/95378364/169946855-e73c343e-225d-4357-b3ba-42c65e32e08a.png)
-)
+![delayExample](https://user-images.githubusercontent.com/95378364/169946909-a0d1b584-1d05-4efe-a27a-cd826eb4720f.png)
+
