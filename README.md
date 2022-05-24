@@ -8,7 +8,7 @@ compile_file:
 	as -o $(input_file).o $(input_file).s
 	gcc -o $(input_file) $(input_file).o
 	./$(input_file)
-  gdb $(input_file)
+	gdb $(input_file)
 ```
 
 ### Programa 1: Delay Example 1
